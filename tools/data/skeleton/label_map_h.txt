@@ -1,0 +1,4 @@
+bo
+run
+stand
+walk
