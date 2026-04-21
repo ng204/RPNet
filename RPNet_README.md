@@ -69,7 +69,7 @@ print(f"MMEngine版本: {mmengine.__version__}")
 ```
 
 
-## � 快速开始
+##  快速开始
 
 ### 训练模型
 
